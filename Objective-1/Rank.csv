@@ -1,0 +1,11 @@
+,Madhya Pradesh,Maharashtra,Punjab,Rajasthan,Telangana,Uttar Pradesh,West Bengal,Karnataka,Delhi,Gujarat
+Madhya Pradesh,0,1,2,2,2,1,2,1,1,1
+Maharashtra,2,0,2,2,2,2,2,2,2,1
+Punjab,1,1,0,1,1,1,1,1,1,1
+Rajasthan,1,1,2,0,2,1,2,1,1,1
+Telangana,1,1,2,1,0,1,1,1,1,1
+Uttar Pradesh,2,1,2,2,2,0,2,1,2,1
+West Bengal,1,1,2,1,2,1,0,1,1,1
+Karnataka,2,1,2,2,2,2,2,0,2,1
+Delhi,2,1,2,2,2,1,2,1,0,1
+Gujarat,2,2,2,2,2,2,2,2,2,0
